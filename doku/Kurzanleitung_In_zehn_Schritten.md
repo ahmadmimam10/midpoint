@@ -1,0 +1,16 @@
+# MidPoint: In zehn Schritten zur eigenen Datei
+
+Vollständig offline · ohne Cloud · ohne Add-ins · ohne Programmierung
+
+1. **Kopie anlegen.** `MidPoint_Master.xlsm` im Windows-Explorer kopieren und die Kopie sinnvoll benennen (z. B. `Materialverwaltung.xlsm`). Die Masterdatei bleibt unverändert.
+2. **Öffnen und Makros zulassen.** Die Kopie öffnen und, falls Excel fragt, „Inhalt aktivieren“ wählen. Ohne aktivierte Makros erscheint nur ein Hinweisblatt. In Organisationen gibt die IT Makros meist über einen vertrauenswürdigen Speicherort oder eine Signatur frei.
+3. **Titel festlegen.** Oben links in der Navigation auf den Titel klicken (oder auf der Startseite „Titel der Datei festlegen“) und Titel und Untertitel eintragen, z. B. „Inventar Kitas“. Unter „Einrichten“ wählen Sie per Klick die Farbe der Navigation und die Akzentfarbe.
+4. **Tabelle anlegen.** „Neue Tabelle“ (oder „Aus Vorlage“: Aufgaben & Projekte, Kontakte, Ressourcen, Dokumentation, Veranstaltungen) wählen, Namen, Beschreibung und Symbol festlegen. Gibt es die Liste schon in Excel oder als 2ask-Befragung, macht „Liste übernehmen“ (auf Start) daraus eine fertige Tabelle mit Feldern und Einträgen.
+5. **Eigenschaften (Spalten) hinzufügen.** Das „+“ neben dem letzten Spaltenkopf: Name eingeben, Art per Klick wählen wie in Notion: Text, Nummer, Auswählen, Mehrfachauswahl, Status, Datum, Person, Dateien und Medien, Kontrollkästchen, URL, E-Mail, Telefon, Formel, Verknüpfung, Rollup, Erstellt um/von, Letzte Änderung um/von, Button, Ort, ID. Pflicht direkt, alles Weitere unter „Weitere Einstellungen“. Doppelklick auf einen Spaltenkopf ändert oder entfernt eine Eigenschaft. Einen Umbaumodus gibt es nicht, alles geschieht in einer Oberfläche.
+6. **Tabellen verbinden.** Eine Eigenschaft der Art „Verknüpfung“ verbindet Tabellen (z. B. Aufgabe → Projekt). Die Gegenseite erscheint automatisch. „Rollup“ wertet verknüpfte Einträge aus (Anzahl, Summe …).
+7. **Daten erfassen.** „Neuer Eintrag“. Die Maske zeigt nur, was ausgefüllt wird; Berechnetes steht in der Tabelle. Pflichtangaben sind mit * markiert; „Speichern“ prüft alles und schließt das Fenster. Kurze Werte lassen sich auch direkt in der Tabelle ändern, Kontrollkästchen per Doppelklick.
+8. **Ansichten speichern.** Über „Ansicht“ sortieren, gruppieren und Spalten wählen, über „+ Ansicht“ Tabelle, Kalender, Board oder Projektleiste anlegen (farbige Register je Art).
+9. **Auswerten und einsammeln.** Unter „Dashboards“ Elemente hinzufügen (mit sofortiger Vorschau), über „Gestaltung“ Stil und Farbpalette wählen, über „Anordnen“ Karten mit der Maus verschieben. Unter „Erfassungsdateien“ Daten von anderen einsammeln oder vorhandene Einträge je Stelle prüfen lassen (z. B. Inventar je Kita).
+10. **Speichern und sichern.** Oben rechts „Speichern“ (oder Strg+S) oder unten links „Automatisch speichern“ einschalten, dann wird jede Änderung sofort gespeichert. Unter „Hilfe & Sicherung“ eine erste Sicherung erstellen. Die Datei ist danach eine eigenständige Fachanwendung und braucht die Masterdatei nicht mehr.
+
+**Tipp:** Die ausführliche Hilfe steht in der Datei unter „Hilfe & Sicherung“, die Technische Dokumentation unter „Technische Dokumentation“, beides offline.

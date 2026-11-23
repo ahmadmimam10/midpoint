@@ -1,0 +1,24 @@
+# Erzeugte Dateien (entstehen jederzeit neu mit build\build.ps1)
+dist/
+paket/
+proto/
+pruefung/
+video/
+praesentation/
+
+# Lokale Einstellungen und Hilfsdateien
+.claude/
+~$*
+*.tmp
+Thumbs.db
+desktop.ini
+
+# Große Original-Logodateien bleiben lokal; die aufbereiteten liegen in src/res
+Logos/*.pdf
+
+# Testlisten für den Listen-Import (entstehen jederzeit neu mit build\testlisten.ps1)
+testdaten/importlisten/*.xlsx
+testdaten/importlisten/*.csv
+
+# Behoerdenlisten aus dem Internet: nur lokal (Rechte bei den Herausgebern, siehe testdaten/online/QUELLEN.md)
+testdaten/online/*/
